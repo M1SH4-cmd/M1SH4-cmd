@@ -34,7 +34,7 @@ auto *me = new Developer;
 
 * Junior C++ Developer
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="150">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
 
 ### 📌 Решаемые задачи
 
