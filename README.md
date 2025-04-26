@@ -5,13 +5,13 @@
 </div>
 
 ## 👨‍💻 Обо мне
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Mikhail Belyakov"
-        self.nickname = "OG Michael"
-        self.education = "Skillbox (C++ Course)"
-        self.skills = ["C++", "Qt", "CMake", "Python", "Git"]
+```cpp
+class Developer
+{
+  std::string name = "Mikhail Belyakov"
+  std::string nickname = "OG Michael"
+  std::string education = "Skillbox (C++ Course)"
+  std::string skills = ["C++", "Qt", "CMake", "Clion", "Git"]
         
     def __str__(self):
         return f"Passionate C++ developer with Qt experience"
@@ -22,7 +22,7 @@ print(me)
 
 
 🛠 Технологии и инструменты
-<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,windows,git,github,vscode,linux&perline=4" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,clion,git,github,vscode,linux&perline=4" /> </p>
 📈 Моя статистика
 <!-- Статистика с GitHub --><div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" /> </div>
 🎯 Возможные должности
