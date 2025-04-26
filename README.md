@@ -22,7 +22,7 @@ print(me)
 
 
 🛠 Технологии и инструменты
-<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,vs,git,github,vscode,linux&perline=4" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,windows,git,github,vscode,linux&perline=4" /> </p>
 📈 Моя статистика
 <!-- Статистика с GitHub --><div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" /> </div>
 🎯 Возможные должности
