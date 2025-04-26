@@ -8,13 +8,16 @@
 ```cpp
 class Developer
 {
+public:
   std::string name = "Mikhail Belyakov"
   std::string nickname = "OG Michael"
   std::string education = "Skillbox (C++ Course)"
   std::string skills = ["C++", "Qt", "CMake", "Clion", "Git"]
-        
-    def __str__(self):
-        return f"Passionate C++ developer with Qt experience"
+
+  std::string str()
+{
+    return "Passionate C++ developer with Qt experience"
+}
         
 me = Developer()
 print(me)
