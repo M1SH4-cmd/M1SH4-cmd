@@ -28,7 +28,10 @@ auto *me = new Developer;
 📈 Моя статистика
 <!-- Статистика с GitHub --><div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M1SH4-cmd&show_icons=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1SH4-cmd&layout=compact&theme=radical" /> </div>
 
+🎯 Предполагаемая должность
+
 💼 Junior C++ Developer
+
 <img align="right" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="150">
 
 📌 Решаемые задачи
