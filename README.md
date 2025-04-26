@@ -28,6 +28,7 @@ print(me)
 🎯 Возможные должности
 💼 Junior/Middle C++ Developer
 <img align="right" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="150">
+
 Разработка desktop-приложений на Qt
 
 Оптимизация производительности
