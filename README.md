@@ -25,7 +25,9 @@ auto *me = new Developer;
 
 ### 🛠 Технологии и инструменты
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,clion,git,github,vscode,linux&perline=4" /> </p>
+
 ### Моя статистика
+
 <!-- Статистика с GitHub --><div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M1SH4-cmd&show_icons=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1SH4-cmd&layout=compact&theme=radical" /> </div>
 
 ### 🎯 Предполагаемая должность
