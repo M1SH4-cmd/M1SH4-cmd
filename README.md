@@ -38,3 +38,17 @@ auto *me = new Developer;
 Работа с многопоточностью
 
 Разработка кроссплатформенных решений
+
+
+## 🌐 Социальные сети и профили
+
+<div align="center">
+
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yourprofile/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourid)
+[![VK](https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/yourprofile)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/yourusername)
+
+</div>
+
+
