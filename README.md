@@ -18,6 +18,9 @@ class Developer:
         
 me = Developer()
 print(me)
+```
+
+
 🛠 Технологии и инструменты
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,python,git,github,vscode,linux&perline=4" /> </p>
 📈 Моя статистика
