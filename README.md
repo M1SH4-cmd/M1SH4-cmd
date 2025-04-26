@@ -16,7 +16,7 @@ public:
 
   std::string str()
 {
-    return "Passionate C++ developer with Qt experience"
+    return "Juniour C++ developer with Qt experience"
 }
         
 auto *me = new Developer;
