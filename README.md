@@ -1,7 +1,7 @@
 # 🚀 Привет, я OG Michael (Mikhail Belyakov) 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ3aXl1dTZ1a2V1Z2R5dW5zZzF4Z2N6dGQ0a2RlY3BqZ3V6bWJmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU2OTYzNTIsIm5iZiI6MTc0NTY5NjA1MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI2VDE5MzQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI3ODc0NTNiNDU1ZWM3Njk2NWI4NTlkYzkwZGM1ODFlYmNhOTYyNzhkN2IzMWUwZTVkZTBhMmI2OTk0YTZmYjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TcS4hGe6tYRCRWMeWYc1hrXC11lBUdHzG5q2tk4gok4" width="700">
 </div>
 
 ## 👨‍💻 Обо мне
