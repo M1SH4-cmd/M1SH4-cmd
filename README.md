@@ -19,8 +19,7 @@ public:
     return "Passionate C++ developer with Qt experience"
 }
         
-me = Developer()
-print(me)
+auto *me = new Developer;
 ```
 
 
