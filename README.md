@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Обо мне
 ```cpp
-class Developer
+class Developer : public Cpp
 {
 public:
   std::string name = "Mikhail Belyakov"
