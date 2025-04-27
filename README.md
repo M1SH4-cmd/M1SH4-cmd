@@ -14,12 +14,13 @@ public:
   std::string education = "Skillbox (C++ Course)"
   std::string skills = ["C++", "Qt", "CMake", "Clion", "Git"]
 
-  std::string str()
+  std::string about()
 {
     return "Juniour C++ developer with Qt experience"
 }
         
 auto *me = new Developer;
+std:cout << me->about() << std::endl;
 ```
 
 
