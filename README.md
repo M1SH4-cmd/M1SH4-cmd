@@ -46,6 +46,9 @@ std:cout << me->about() << std::endl;
 
 * Разработка кроссплатформенных решений
 
+
+### 📲 Мои контакты
+
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/OG_MichaeLLLL)
