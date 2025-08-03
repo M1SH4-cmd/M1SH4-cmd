@@ -57,7 +57,7 @@ std:cout << me->about() << std::endl;
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/og_michael)
 [![VK](https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/cpp_4_life)
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.skillbox.ru/mikhail_beliakov_1)
-[![Gitea](https://img.shields.io/badge/Gitea-green?logo=gitea&logoColor=white&style=for-the-badge)](https://git.deviks.io/OG_MICHAEL)
+[![Gitea](https://img.shields.io/badge/Gitea-darkgreen?logo=gitea&logoColor=white&style=for-the-badge)](https://git.deviks.io/OG_MICHAEL)
 
 ![pacman](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 </div>
