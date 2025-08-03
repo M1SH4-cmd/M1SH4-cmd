@@ -26,7 +26,6 @@ std:cout << me->about() << std::endl;
 ### 🛠 Технологии и инструменты
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BpM2twc3JmZXprM3doNmtjbTZmYWJoa3UzYjN2a3ZxZmswcHV0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yjSNYYnj9gAeUbSHr3/giphy.gif" width="150">
-
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,clion,git,github,vscode,linux&perline=4" /> </p>
 
 ### 📈 Моя статистика
