@@ -2,13 +2,6 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif">
-
-  
-  [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/OG_MichaeLLLL)
-  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Inf_LUV/)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/og_michael)
-  [![VK](https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/cpp_4_life)
-  [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.skillbox.ru/mikhail_beliakov_1)
 </div>
 
 ## 👨‍💻 Обо мне
@@ -29,7 +22,13 @@ public:
 auto *me = new Developer;
 std:cout << me->about() << std::endl;
 ```
-
+<div align="center">
+  [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/OG_MichaeLLLL)
+  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Inf_LUV/)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/og_michael)
+  [![VK](https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/cpp_4_life)
+  [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.skillbox.ru/mikhail_beliakov_1)
+</div>
 
 ### 🛠 Технологии и инструменты
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,clion,git,github,vscode,linux&perline=4" /> </p>
