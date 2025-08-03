@@ -12,12 +12,12 @@ public:
   std::string name = "Mikhail Belyakov"
   std::string nickname = "OG Michael"
   std::string education = "Skillbox (C++ Course)"
-  std::string skills = ["C++", "Qt", "CMake", "Clion", "Git"]
+  std::string skills = ["C++", "STL", "Qt", "CMake", "QML", "Git"]
 
   std::string about()
-{
+  {
     return "Juniour C++ developer with Qt experience"
-}
+  }
         
 auto *me = new Developer;
 std:cout << me->about() << std::endl;
@@ -29,6 +29,7 @@ std:cout << me->about() << std::endl;
 ### 📈 Моя статистика
 
 <!-- Статистика с GitHub --><div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M1SH4-cmd&show_icons=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1SH4-cmd&layout=compact&theme=radical" /> </div>
+
 
 ### 🎯 Предполагаемая должность
 
