@@ -35,7 +35,7 @@ std:cout << me->about() << std::endl;
 
 * Junior C++ Developer
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9jc2g5aGRibXZseW5ncGhtdnM4dXczb2hsZDRqb2NiZXFmanZ3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="150">
 
 ### 📌 Решаемые задачи
 
